@@ -1,1 +1,1 @@
-# optimization_samples
+# Optimization tasks for n-dim functions
